@@ -11,25 +11,25 @@ Annisa Almaghvirah
 ## Modul 	Modul 1 - Fundamental dan Text Processing
 ## Topik	Eksplorasi Corpus
 
-	Tujuan 
+# A. Tujuan 
 Setelah menyelesaikan praktikum ini, mahasiswa diharapkan mampu:
-	Membaca Dataset CSV
-	Memahami Struktur Corpus
-	Mengetahui Jumlah Dokumen
-	Mengetahui Jumlah Kolom
-	Mengetahui Jumlah Data
-	Mengetahui Distribusi Data
-	Menghitung Jumlah Kalimat
-	Menghitung Jumlah Kata
-	Melakukan Eksplorasi Awal Dataset
+1. Membaca Dataset CSV
+2. Memahami Struktur Corpus
+3. Mengetahui Jumlah Dokumen
+4. Mengetahui Jumlah Kolom
+5. Mengetahui Jumlah Data
+6. Mengetahui Distribusi Data
+7. Menghitung Jumlah Kalimat
+8. Menghitung Jumlah KataMelakukan
+9. Eksplorasi Awal Dataset
 
-	Requiretment
-	Sistem Operasi yang digunakan : Windows 11 Home Single Language 64-
+# B. Requiretment
+1. Sistem Operasi yang digunakan : Windows 11 Home Single Language 64-
 bit (10.0, Build 26100)
-	Browser	: Google Chrome Version 130.0.6723.117 (Official Build) (64-bit)
-	Tools yang digunakan	: Visual Studio Code
+2. Browser	: Google Chrome Version 130.0.6723.117 (Official Build) (64-bit)
+3. Tools yang digunakan	: Visual Studio Code
 
-	Konsep Dasar
+# C. Konsep Dasar
 	Pengertian NLP
 Natural Language Processing (NLP) adalah cabang kecerdasan buatan yang memungkinkan komputer untuk memahami, mengolah, dan menghasilkan bahasa alami (bahasa manusia).
 Contoh aplikasi NLP:
