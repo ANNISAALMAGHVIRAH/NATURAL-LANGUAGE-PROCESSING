@@ -6,19 +6,10 @@
 
 Annisa Almaghvirah
 240306037
-https://github.com/ANNISAALMAGHVIRAH 
 
 
-Program Studi Teknologi Informasi
-Fakultas Dakwah dan Ilmu Komunikasi
-Universitas Islam Negeri Mataram
-2026
-
-Modul 	Modul 1 - Fundamental dan Text Processing
-Topik	Eksplorasi Corpus
-Repository	NATURAL-LANGUAGE-PROCESSING/MODUL 1/PERTEMUAN 1 at main · ANNISAALMAGHVIRAH/NATURAL-LANGUAGE-PROCESSING
-
-Tanggal 	13 Oktober 2026
+## Modul 	Modul 1 - Fundamental dan Text Processing
+## Topik	Eksplorasi Corpus
 
 	Tujuan 
 Setelah menyelesaikan praktikum ini, mahasiswa diharapkan mampu:
