@@ -30,16 +30,16 @@ bit (10.0, Build 26100)
 3. Tools yang digunakan	: Visual Studio Code
 
 # C. Konsep Dasar
-	Pengertian NLP
-Natural Language Processing (NLP) adalah cabang kecerdasan buatan yang memungkinkan komputer untuk memahami, mengolah, dan menghasilkan bahasa alami (bahasa manusia).
+1. Pengertian NLP
+   Natural Language Processing (NLP) adalah cabang kecerdasan buatan yang memungkinkan komputer untuk memahami, mengolah, dan menghasilkan bahasa alami (bahasa manusia).
 Contoh aplikasi NLP:
-	Mesin penerjemah (Google Translate)
-	Asisten virtual (Siri, Google Assistant)
-	Deteksi spam email
-	Analisis sentimen ulasan produk
-	Chatbot layanan pelanggan
-	Ringkasan dokumen otomatis
-	NLP Klasik vs Modern
+	1. Mesin penerjemah (Google Translate)
+	2. Asisten virtual (Siri, Google Assistant)
+	3. Deteksi spam email
+	4. Analisis sentimen ulasan produk
+	5. Chatbot layanan pelanggan
+	6. Ringkasan dokumen otomatis
+2. NLP Klasik vs Modern
 Era	Pendekatan	Contoh
 Klasik	Berbasis aturan (rule-based)	Regex, grammar rules
 Statistik	 Probabilitas & frekuensi	N-gram, Naive Bayes
